@@ -1,10 +1,29 @@
 h1 {
   font-family: "Qwitcher Grypen", cursive;
-  font-size: 50px;
+  font-size: 115px;
   font-weight: bolder;
+  color: rgb(250, 250, 250);
 }
-p {
+h2 {
   font-family: "Quicksand", sans-serif;
-  font-size: 20px;
-  font-weight: 600;
+  color: rgb(242, 255, 242);
+}
+h3 {
+  font-family: "Quicksand", sans-serif;
+  color: rgb(228, 254, 228);
+}
+.main {
+  background: linear-gradient(
+    109.6deg,
+    rgb(72, 200, 160) 11.2%,
+    rgb(32, 40, 48) 91.3%
+  );
+  text-align: center;
+  padding: 160px 20px;
+}
+.btn-start {
+  border: 2px solid rgb(250, 250, 250);
+  border-radius: 30px;
+  color: rgb(250, 250, 250);
+  padding: 30px 15px;
 }
