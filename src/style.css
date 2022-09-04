@@ -6,20 +6,20 @@ h1 {
 }
 h2 {
   font-family: "Quicksand", sans-serif;
-  color: rgb(242, 255, 242);
+  color: rgb(242, 255, 255);
 }
 h3 {
   font-family: "Quicksand", sans-serif;
-  color: rgb(228, 254, 228);
+  color: rgb(228, 254, 253);
 }
 img {
   max-width: 300px;
 }
 p {
   font-family: "Montserrat", sans-serif;
-  background-color: rgba(231, 255, 247, 0.2);
+  background-color: rgba(231, 255, 254, 0.2);
   border-radius: 10px;
-  color: rgb(228, 254, 228);
+  color: rgb(228, 254, 253);
 }
 img {
   display: block;
@@ -29,8 +29,8 @@ img {
 .main {
   background: linear-gradient(
     109.6deg,
-    rgb(72, 200, 160) 11.2%,
-    rgb(32, 40, 48) 91.3%
+    rgb(0, 0, 0) 11.2%,
+    rgb(11, 132, 145) 91.1%
   );
   text-align: center;
   padding: 160px 20px;
