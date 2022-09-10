@@ -24,6 +24,33 @@ img {
   border-radius: 40px;
   max-width: 300px;
 }
+nav {
+  padding: 15px 0;
+}
+nav ul {
+  padding: 0;
+  margin-top: 20px;
+}
+nav li {
+  display: inline;
+  list-style: none;
+  line-height: 1.4;
+  transition: all 100ms ease-in-out;
+}
+nav a {
+  margin-left: 20px;
+  color: #082629;
+  text-decoration: none;
+  font-family: "Quicksand", sans-serif;
+  font-size: 18px;
+}
+nav a:hover,
+nav a.active {
+  background-color: #6eb4b9;
+  color: aliceblue;
+  padding: 5px;
+  border-radius: 10px;
+}
 .main {
   background: linear-gradient(
     109.6deg,
@@ -31,8 +58,14 @@ img {
     rgb(11, 132, 145) 91.1%
   );
   text-align: center;
-  padding: 160px 20px;
+  padding: 20px;
   line-height: 1, 4;
+}
+.logo {
+  max-width: 150px;
+  max-height: 80px;
+  margin-left: 0;
+  border-radius: 10px;
 }
 .review a {
   border: 2px solid rgb(250, 250, 250);
