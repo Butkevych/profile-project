@@ -124,6 +124,9 @@ nav a.active {
   text-align: center;
   font-size: 30px;
 }
+.smile {
+  box-shadow: none;
+}
 @media (max-width: 600px) {
   .review {
     text-align: center;
