@@ -91,4 +91,7 @@ img {
   .review h2 {
     text-decoration: underline;
   }
+  .my-story {
+    text-align: center;
+  }
 }
