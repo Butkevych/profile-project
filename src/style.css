@@ -128,6 +128,9 @@ nav a.active {
   box-shadow: none;
 }
 @media (max-width: 600px) {
+  nav a {
+    font-size: 14px;
+  }
   .review {
     text-align: center;
   }
