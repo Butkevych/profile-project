@@ -84,6 +84,17 @@ img {
   box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.3);
   padding: 15px 30px;
 }
+.projects {
+  background: linear-gradient(
+    109.6deg,
+    rgb(0, 0, 0) 11.2%,
+    rgb(11, 132, 145) 91.1%
+  );
+}
+.projects h1 {
+  text-align: center;
+  padding: 60px;
+}
 @media (max-width: 600px) {
   .review {
     text-align: center;
