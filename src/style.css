@@ -179,11 +179,9 @@ footer h4 {
   nav a {
     font-size: 12px;
   }
-  .review {
-    text-align: center;
-  }
   .review h2 {
     text-decoration: underline;
+    text-align: left;
   }
   .my-story {
     text-align: center;
